@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/HFdesign.css" rel="stylesheet" />
+    <link href="~/Content/myStyle.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <ul>
+            @RenderSection("Header", false)
+            <li><a href="/Admin/AddPages/Index/"> Home</a></li>
+            <li><a href="/Admin/AddPages/Create/">Create </a></li>
+           
+
+            <div class="clear"></div>
+        </ul>
+        <div id="content">@RenderBody()</div>
+        <div id="footer">
+            @RenderSection("Footer", false)
+            <div id="content">
+                <p>Contact Us</p>
+                <p>Whats App  :  (0098) 9339512187</p>
+                <p>Email Us At : Arian.mirzaei7477@gmail.com</p>
+                <p>About Us</p>
+            </div>
+
+
+        </div>
+    </div>
+</body>
+</html>

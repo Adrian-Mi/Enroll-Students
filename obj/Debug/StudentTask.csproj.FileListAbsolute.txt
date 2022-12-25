@@ -1,0 +1,158 @@
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\StudentTask.dll.config
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\StudentTask.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\StudentTask.pdb
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\csc.exe
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\csc.exe.config
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\csc.rsp
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\csi.exe
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\csi.exe.config
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\csi.rsp
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.AppContext.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Collections.Immutable.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Console.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.IO.Compression.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.IO.FileSystem.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Net.Http.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Net.Sockets.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.ValueTuple.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Xml.XPath.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\vbc.exe
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\vbc.exe.config
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\vbc.rsp
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\VBCSCompiler.exe
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\roslyn\VBCSCompiler.exe.config
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\DataLayer.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\Microsoft.Web.Infrastructure.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Helpers.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Mvc.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Razor.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Webpages.Deployment.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Webpages.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Webpages.Razor.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\EntityFramework.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\DataLayer.pdb
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\DataLayer.dll.config
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Razor.xml
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Webpages.xml
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Webpages.Deployment.xml
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Webpages.Razor.xml
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Helpers.xml
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\System.Web.Mvc.xml
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\EntityFramework.xml
+E:\MVCPracticesPart2\StudentTask\StudentTask\obj\Debug\StudentTask.csproj.AssemblyReference.cache
+E:\MVCPracticesPart2\StudentTask\StudentTask\obj\Debug\StudentTask.csproj.CoreCompileInputs.cache
+E:\MVCPracticesPart2\StudentTask\StudentTask\obj\Debug\StudentTask.csproj.CopyComplete
+E:\MVCPracticesPart2\StudentTask\StudentTask\obj\Debug\StudentTask.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\obj\Debug\StudentTask.pdb
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\EntityFramework.SqlServer.dll
+E:\MVCPracticesPart2\StudentTask\StudentTask\bin\EntityFramework.SqlServer.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\StudentTask.dll.config
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\StudentTask.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\StudentTask.pdb
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\csc.exe
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\csc.exe.config
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\csc.rsp
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\csi.exe
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\csi.exe.config
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\csi.rsp
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.AppContext.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Collections.Immutable.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Console.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.IO.Compression.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.IO.FileSystem.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Net.Http.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Net.Sockets.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.ValueTuple.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Xml.XPath.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\vbc.exe
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\vbc.exe.config
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\vbc.rsp
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\VBCSCompiler.exe
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\roslyn\VBCSCompiler.exe.config
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\DataLayer.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\EntityFramework.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\EntityFramework.SqlServer.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\Microsoft.Web.Infrastructure.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Helpers.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Mvc.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Razor.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Webpages.Deployment.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Webpages.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Webpages.Razor.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\DataLayer.pdb
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\DataLayer.dll.config
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\EntityFramework.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\EntityFramework.SqlServer.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Razor.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Webpages.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Webpages.Deployment.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Webpages.Razor.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Helpers.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\System.Web.Mvc.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\obj\Debug\StudentTask.csproj.AssemblyReference.cache
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\obj\Debug\StudentTask.csproj.CoreCompileInputs.cache
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\obj\Debug\StudentTask.csproj.CopyComplete
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\obj\Debug\StudentTask.dll
+E:\MVCPracticesPart2\StudentTask 2\StudentTask\obj\Debug\StudentTask.pdb

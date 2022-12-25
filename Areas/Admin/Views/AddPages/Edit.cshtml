@@ -1,0 +1,84 @@
+﻿
+@model DataLayer.AddPage
+
+@{
+    Layout = null;
+    Layout = "/Areas/Admin/Views/Shared/_HAndFooter.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+
+    <link href="~/Content/HFdesign.css" rel="stylesheet" />
+    <link href="~/Content/myStyle.css" rel="stylesheet" />
+<style>
+    body {
+        background-image: url('/Images/f5.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    div:hover {
+        box-shadow: 0 0 0px 0px;
+        transition: 1.4s;
+    }
+</style>
+</head>
+<body>
+
+
+    <form action="/Admin/AddPages/Edit/" method="post">
+        <fieldset>
+            <input type="hidden" name="StId" value="@Model.StId" />
+            <legend>Student Info</legend>
+            <label>Name</label>
+            <input class="box" type="text" name="FirstName" minlength="3" value="@Model.FirstName" required /><br />
+            <label>Last Name</label>
+            <input class="box" type="text" name="LastName" minlength="3" value="@Model.LastName" required /><br />
+            <label>Date Of Birth</label>
+            <input class="box" type="text" name="DateOfBirth" id="dateob" value="@Model.DateOfBirth" required /><br />
+
+            <label>Email</label>
+            <input class="box" type="email" name="Email" value="@Model.Email" required /><br />
+            <label>PhoneNumber</label>
+            <input class="box" type="text" name="PhoneNumber" id="phone" value="@Model.PhoneNumber" required /><br />
+            <label>Address</label>
+            <input class="box" type="text" name="Address" value="@Model.Address" required /><br />
+
+
+
+        </fieldset>
+
+        <input class="button btn-success" type="submit" value="Edit" />
+
+    </form>
+    @section Header
+{
+
+    }
+    @section Footer
+{
+
+    }
+
+    <script>
+        document.getElementById('phone').addEventListener('input', function (e) {
+            var x = e.target.value.replace(/\D/g, '').match(/(\d{0,3})(\d{0,3})(\d{0,4})/);
+            e.target.value = !x[2] ? x[1] : '(' + x[1] + ') ' + x[2] + (x[3] ? '-' + x[3] : '');
+
+        });
+        ript >
+            document.getElementById('dateob').addEventListener('input', function (e) {
+                var x = e.target.value.replace(/\D/g, '').match(/(\d{0,3})(\d{0,3})(\d{0,4})/);
+                e.target.value = !x[2] ? x[1] : '(' + x[1] + ') ' + x[2] + (x[3] ? '-' + x[3] : '');
+
+            });
+    </script>
+</body>
+</html>

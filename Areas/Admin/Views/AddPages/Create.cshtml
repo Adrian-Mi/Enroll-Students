@@ -1,0 +1,87 @@
+﻿@model IEnumerable<DataLayer.AddPage>
+@{
+    Layout = "/Areas/Admin/Views/Shared/_HAndFooter.cshtml";
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/myStyle.css" rel="stylesheet" />
+    <link href="~/Content/HFdesign.css" rel="stylesheet" />
+
+    <style>
+        body {
+            background-image: url('/Images/f5.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        div:hover {
+            box-shadow: 0 0 0px 0px;
+            transition: 1.4s;
+        }
+    </style>
+</head>
+<body>
+    
+
+    <form action="/Admin/AddPages/Create/" method="post">
+        <fieldset>
+
+            <legend>Student Info</legend>
+            <label>Name</label>
+            <input class="box" type="text" name="FirstName" minlength="3" required /><br />
+            <label>Last Name</label>
+            <input class="box" type="text" name="LastName" minlength="3" required /><br />
+            <label>Date Of Birth</label>
+            <input class="box" type="text" name="DateOfBirth" placeholder="@DateTime.Now.Day/@DateTime.Now.Month/@DateTime.Now.Year" id="dateob" required /><br />
+
+            <label>Email</label>
+            <input class="box" type="email" name="Email" required /><br />
+            <label>PhoneNumber</label>
+            <input class="box" type="text" name="PhoneNumber" placeholder="(555) 555-5555" id="phone" required /><br />
+            <label>Address</label>
+            <input class="box" type="text" name="Address" required /><br />
+
+
+
+        </fieldset>
+
+        @*<div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-success" />
+                </div>
+            </div>*@
+        <input class="button" type="submit" value="Create" />
+    </form>
+    @section Header
+{
+
+    }
+    @section Footer
+{
+
+    }
+    <script>
+        document.getElementById('dateob').addEventListener('input', function (e) {
+            var x = e.target.value.replace(/\D/g, '').match(/(\d{0,2})(\d{0,2})(\d{0,4})/);
+            e.target.value = !x[2] ? x[1] : '' + x[1] + '/' + x[2] + (x[3] ? '/' + x[3] : '');
+
+        });
+        document.getElementById('phone').addEventListener('input', function (e) {
+            var x = e.target.value.replace(/\D/g, '').match(/(\d{0,3})(\d{0,3})(\d{0,4})/);
+            e.target.value = !x[2] ? x[1] : '(' + x[1] + ') ' + x[2] + (x[3] ? '-' + x[3] : '');
+
+        });
+        //ript >
+      
+    </script>
+</body>
+</html>

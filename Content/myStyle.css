@@ -1,0 +1,73 @@
+﻿*{
+    padding:0;
+    margin:0;
+    /*border:0;*/
+}
+input , textarea ,select , button{
+    font-family:Tahoma;
+}
+body {
+    background-color: darkgrey;
+    direction: ltr;
+    font-family: Tahoma;
+}
+form {
+    margin: 15px auto;
+    width: 550px;
+    border-radius: 5px;
+    background-color: #eef;
+    box-shadow: 0 0 8px;
+    position: relative;
+    top: 140px;
+}
+fieldset{
+    padding:10px;
+    margin:10px;
+    border:1px solid gray;
+}
+label{
+    width:110px;
+    font-size:14px;
+    display:inline-block;
+}
+
+legend{
+    padding:5px;
+}
+.box{
+    box-shadow:3px 3px 5px #ddd inset;
+    border-radius:5px;
+    border:1px solid gray;
+    padding:5px;
+}
+input{
+    margin:8px;
+    width:180px;
+    direction:ltr;
+    font-family:Tahoma;
+}
+
+
+
+
+.button {
+    width: 70px;
+      padding:8px 8px;
+    background-image: linear-gradient(#ccf, #aad);
+    border: 1px solid gray;
+    border-radius: 4px;
+    position: relative;
+    left: 462px;
+}
+
+/*.button:first-of-type{
+    margin-right:200px;
+}*/
+.button:hover{
+    background-image:linear-gradient(#aad , #88b);
+
+}
+/*div:hover {
+    box-shadow: 0 0 10px 3px;
+    transition: 4.4s;
+}*/

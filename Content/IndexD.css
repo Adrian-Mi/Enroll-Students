@@ -1,0 +1,50 @@
+﻿body {
+    background-image: url('/Images/f4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Tahoma;
+    color: snow;
+    font-size: 18px;
+}
+
+table {
+    width: 600px;
+    height: 60px;
+    border-collapse: collapse;
+    cursor: default;
+}
+
+td {
+    border: 1px solid #4E95F4;
+    text-align: center;
+}
+
+th {
+    background-color: #0AA;
+    border: 1px solid #44F;
+}
+
+tr:nth-child(even) {
+    background-color: lightblue;
+}
+
+tr:nth-child(odd) {
+    background-color:darkcyan ;
+}
+
+tr:hover {
+    background-color: cyan;
+    
+}
+
+
+ <script>
+        $(function () {
+            $("td").hover(function (event) {
+                n = $("td:hover").index() + 1;
+                $("td:nth-child(" + n + ")").css("background-color", "cyan");
+            }, function (event) {
+                $("td:nth-child(" + n + ")").css("background-color", "");
+            });
+        });
+    </script>
